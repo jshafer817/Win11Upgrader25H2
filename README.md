@@ -1,2 +1,2 @@
-"Win11Upgrader25H2 Automatic for non approved hardware"
+"Win11Upgrader25H2 Automatic Upgrader for non approved hardware"
 
